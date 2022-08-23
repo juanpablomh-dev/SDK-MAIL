@@ -1,0 +1,17 @@
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\ICheckMailFactory.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\ews\CheckMailEWS.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\ICheckMail.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\types\ProtocolType.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\pop3\CheckMailPOP3.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\Pruebas.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\gral\Ctes.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\types\ProtocolPOP3Type.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\imap\CheckMailFactoryIMAP.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\graphapi\CheckMailFactoryGRAPHAPI.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\utils\UtilsFiles.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\CheckMail.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\graphapi\CheckMailGRAPHAPI.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\ews\CheckMailFactoryEWS.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\imap\CheckMailIMAP.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\pop3\CheckMailFactoryPOP3.java
+C:\Desarrollo\Java\SDK-Mail\src\main\java\com\jpmh\sdk\mail\received\check\types\SSLType.java

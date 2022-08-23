@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jpmh.sdk.mail.received.check.pop3.CheckMailPOP3Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.858 sec
